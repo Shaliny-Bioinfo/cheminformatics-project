@@ -67,13 +67,15 @@ cd Problem1_GoldenTriangle/scripts
 python problem1_filtering.py
 ```
 Input: ../data/golden_triangle_infantshaliny.csv
+
 Output: Filtered CSV + HTML summary in ../results/
 ## Chemical Space Visualization
 ```
 cd Problem2_ChemicalSpace/scripts
 python problem2_plot.py
 ```
-Generates a 2D scatter plot (logP vs TPSA).
+Generates a 2D scatter plot (logP vs TPSA)
+
 Output: Interactive Plotly HTML file in ../results/
 
 ## Lipinski’s Rule of Five Analysis
@@ -82,6 +84,7 @@ cd Problem3_RuleOfFive/scripts
 python problem3_lipinski.py
 ```
 Input: ../data/fda_drugs_infantshaliny.csv
+
 Output: RO5 violation summary (CSV + HTML) in ../results/
 ## Methods Summary
 ## Golden Triangle Filters
