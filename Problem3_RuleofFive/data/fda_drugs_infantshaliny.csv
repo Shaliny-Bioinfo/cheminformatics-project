@@ -1,0 +1,21 @@
+s.no,compound name,SMILES
+1,Aspirin,CC(=O)OC1=CC=CC=C1C(=O)O
+2,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+3,Paracetamol,CC(=O)NC1=CC=C(C=C1)O
+4,Metformin,CN(C)C(=N)NC
+5,Omeprazole,CC1=NC(=NC(=N1)C2=CC=CC=C2)S(=O)C3=CC=CC=C3
+6,Simvastatin,CCC(C)C(C)C1=CC=C(C=C1)C(C)C2CCC(CC2)C(=O)O
+7,Atorvastatin,CC(C)C1=CC=C(C=C1)C(C)C2CCC(CC2)C(=O)O
+8,Losartan,C1=CC=C(C=C1)C2=NN(CC2)C3=CC=CC=C3
+9,Amlodipine,CC1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC(=C(C=C3)Cl)N(C)C
+10,Metoprolol,CC(C)NCC(O)COC1=CC=CC=C1
+11,Captopril,CC(C)C(=O)NCC(=O)S
+12,Naproxen,CC(C)C1=CC=C(C=C1)C(C)C(=O)O
+13,Acetaminophen,CC(=O)NC1=CC=C(C=C1)O
+14,Furosemide,CC1=CC(=C(C=C1)S(=O)(=O)N)C(=O)O
+15,Hydrochlorothiazide,C1=NC2=CC(=C(C=C2S(=O)(=O)N)Cl)S(=O)(=O)N1
+16,Warfarin,CC(=O)C1=CC=C(C=C1)C2=CC=CC=C2O
+17,Albuterol,CC(C)NCC(O)COC1=CC=CC=C1O
+18,Ciprofloxacin,C1=CC(=C(C=C1C2=CN=C3C=C(C=CC3=N2)F)F)N
+19,Levothyroxine,CC1=CC(=C(C=C1)O)C(C)C2=CC=CC=C2O
+20,Omeprazole,CC1=NC(=NC(=N1)C2=CC=CC=C2)S(=O)C3=CC=CC=C3

@@ -1,0 +1,21 @@
+s.no,compound name ,SMILES
+1, 2-aminobenzoic acid  , C1=CC=C(C(=C1)C(=O)O)N  
+2,"oxane-2,3,4,5-tetrol  ",C1C(C(C(C(O1)O)O)O)O  
+3," (2,3,4-trihydroxy-5-oxopentyl) dihydrogen phosphate ",C(C(C(C(C=O)O)O)O)OP(=O)(O)O  
+4,2-amino-5-(diaminomethylideneamino)pentanoic acid  ,C(CC(C(=O)O)N)CN=C(N)N  
+5,arsoric acid  , O[As](=O)(O)O  
+6,"2,4-diamino-4-oxobutanoic acid  ",C(C(C(=O)O)N)C(=O)N  
+7,3-aminopropanoic acid  ,C(CN)C(=O)O  
+8,benzaldehyde  ,C1=CC=C(C=C1)C=O  
+9,benzene  ,C1=CC=CC=C1  
+10,benzoic acid  ,C1=CC=C(C=C1)C(=O)O  
+11,phenylmethanol  , C1=CC=C(C=C1)CO  
+12,2-(trimethylazaniumyl)acetate  ,C[N+](C)(C)CC(=O)[O-]  
+13,carboxymethyl(trimethyl)azanium  ,C[N+](C)(C)CC(=O)O  
+14,trimethyl(2-oxoethyl)azanium  ,C[N+](C)(C)CC=O  
+15,"3-phenylbenzene-1,2-diol  ",C1=CC=C(C=C1)C2=C(C(=CC=C2)O)O  
+16,"butane-2,3-diol  ",CC(C(C)O)O  
+17,butan-1-ol  ,CCCCO  
+18,phosphono butanoate  ,CCCC(=O)OP(=O)(O)O  
+19,"pentane-1,5-diamine  ",C(CCN)CCN  
+20,phosphono carbamate  ,C(=O)(N)OP(=O)(O)O  

@@ -1,0 +1,21 @@
+S.No,Compound Name,SMILES
+1,"1,3,7-trimethylpurine-2,6-dione  ",CN1C=NC2=C1C(=O)N(C(=O)N2C)C  
+2,2-oxohexanedioic acid  ,C(CC(=O)C(=O)O)CC(=O)O  
+3,"3,4-dihydroxybenzoic acid  ",C1=CC(=C(C=C1C(=O)O)O)O 
+4,3-aminopropanal  ,C(CN)C=O 
+5,2-hydroxy-2-propan-2-ylbutanedioic acid  ,CC(C)C(CC(=O)O)(C(=O)O)O  
+6,pyridine-3-carbonitrile  ,C1=CC(=CN=C1)C#N  
+7,(3-carboxy-2-hydroxypropyl)-trimethylazanium ,C[N+](C)(C)CC(CC(=O)O)O 
+8,2-amino-3-hydroxybenzoic acid ,C1=CC(=C(C(=C1)O)N)C(=O)O  
+9,3-phenylpropanoic acid  ,C1=CC=C(C=C1)CCC(=O)O  
+10,2-pyridin-3-ylacetic acid  ,C1=CC(=CN=C1)CC(=O)O  
+11,2-amino-3-sulfinopropanoic acid  ,C(C(C(=O)O)N)S(=O)O  
+12,2-oxo-3-sulfinopropanoic acid  ,C(C(=O)C(=O)O)S(=O)O  
+13,3-(carbamoylamino)propanoic acid  ,C(CNC(=O)N)C(=O)O  
+14, 4-pyridin-3-ylbutanoic acid  ,C1=CC(=CN=C1)CCCC(=O)O  
+15,4-aminobutanal  ,C(CC=O)CN  
+16, 4-aminobutanoic acid  ,C(CC(=O)O)CN  
+17,4-(hydroxymethyl)phenol  ,C1=CC(=CC=C1CO)O  
+18,4-hydroxybenzaldehyde,C1=CC(=CC=C1C=O)O  
+19,4-methylpentanal  ,CC(C)CCC=O  
+20,trimethyl(4-oxobutyl)azanium ,C[N+](C)(C)CCCC=O  

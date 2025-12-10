@@ -1,0 +1,21 @@
+s.no,compound name ,SMILES,MW,LogP,TPSA,Type
+1, 2-aminobenzoic acid  , C1=CC=C(C(=C1)C(=O)O)N  ,137.13799999999995,0.9669999999999999,63.31999999999999,Other
+2,"oxane-2,3,4,5-tetrol  ",C1C(C(C(C(O1)O)O)O)O  ,150.13,-2.5823,90.15,Other
+3," (2,3,4-trihydroxy-5-oxopentyl) dihydrogen phosphate ",C(C(C(C(C=O)O)O)O)OP(=O)(O)O  ,230.10899999999998,-2.6227,144.52,Outlier
+4,2-amino-5-(diaminomethylideneamino)pentanoic acid  ,C(CC(C(=O)O)N)CN=C(N)N  ,174.20399999999998,-1.548099999999999,127.71999999999998,Outlier
+5,arsoric acid  , O[As](=O)(O)O  ,141.942,-2.1706000000000003,77.76,Other
+6,"2,4-diamino-4-oxobutanoic acid  ",C(C(C(=O)O)N)C(=O)N  ,132.11899999999997,-1.7262999999999993,106.40999999999998,Other
+7,3-aminopropanoic acid  ,C(CN)C(=O)O  ,89.09399999999998,-0.5802,63.32000000000001,Other
+8,benzaldehyde  ,C1=CC=C(C=C1)C=O  ,106.12399999999997,1.4990999999999999,17.07,Other
+9,benzene  ,C1=CC=CC=C1  ,78.11399999999999,1.6866,0.0,Other
+10,benzoic acid  ,C1=CC=C(C=C1)C(=O)O  ,122.12299999999996,1.3848,37.3,Other
+11,phenylmethanol  , C1=CC=C(C=C1)CO  ,108.13999999999997,1.1788999999999998,20.23,Other
+12,2-(trimethylazaniumyl)acetate  ,C[N+](C)(C)CC(=O)[O-]  ,117.14799999999998,-1.5574999999999983,40.129999999999995,Other
+13,carboxymethyl(trimethyl)azanium  ,C[N+](C)(C)CC(=O)O  ,118.15599999999998,-0.22280000000000016,37.3,Other
+14,trimethyl(2-oxoethyl)azanium  ,C[N+](C)(C)CC=O  ,102.15699999999998,-0.10850000000000004,17.07,Other
+15,"3-phenylbenzene-1,2-diol  ",C1=CC=C(C=C1)C2=C(C(=CC=C2)O)O  ,186.20999999999998,2.764800000000002,40.46,Outlier
+16,"butane-2,3-diol  ",CC(C(C)O)O  ,90.12199999999999,-0.252,40.46,Other
+17,butan-1-ol  ,CCCCO  ,74.12299999999999,0.7787999999999999,20.23,Other
+18,phosphono butanoate  ,CCCC(=O)OP(=O)(O)O  ,168.085,0.42239999999999994,83.83000000000001,Outlier
+19,"pentane-1,5-diamine  ",C(CCN)CCN  ,102.18100000000001,0.07410000000000017,52.04,Other
+20,phosphono carbamate  ,C(=O)(N)OP(=O)(O)O  ,141.019,-0.8255999999999999,109.85000000000002,Other
